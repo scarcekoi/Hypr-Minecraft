@@ -1,0 +1,10 @@
+{
+    "gui.showmeyourskin.armorScreen.title": "§fНастройка брони",
+    "gui.showmeyourskin.armorScreen.title.serverIntegrated": "§fНастройка брони (Сервер)",
+    "gui.showmeyourskin.armorScreen.title.serverOverrides": "§fНастройка брони (Локальные переопределения)",
+    "gui.showmeyourskin.armorScreen.global": "§fОбщие",
+    "gui.showmeyourskin.armorScreen.synced": "§fСинхронизировано",
+    "gui.showmeyourskin.armorScreen.overridden": "§fПереопределено",
+    "gui.showmeyourskin.armorScreen.playerName": "§f%s",
+    "gui.showmeyourskin.armorScreen.playerSelector": "§fНастройка брони"
+}

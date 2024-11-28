@@ -1,0 +1,19 @@
+{
+    "gui.voicechat.voice_chat.title": "§fГолосовой чат",
+    "gui.voicechat.voice_chat_settings.title": "§fНастройки голосового чата",
+    "gui.voicechat.adjust_volume.title": "§fРегулировка громкости",
+    "gui.voicechat.select_microphone.title": "§fВыбрать микрофон",
+    "gui.voicechat.select_speaker.title": "§fВыбрать громкоговор.",
+    "gui.voicechat.group.title": "§fГрупповой чат",
+    "gui.voicechat.join_create_group.title": "§fПрисоединиться или Создать группу",
+    "gui.voicechat.create_group.title": "§fСоздать группу",
+    "gui.voicechat.enter_password.title": "§fВведите пароль группы",
+    "message.voicechat.join_create_group": "§fПрисоединитесь или Создайте группу",
+    "message.voicechat.group_name": "§fНазвание группы",
+    "message.voicechat.group_type_title": "§f%s (%s)",
+    "message.voicechat.group_title": "§f%s",
+    "message.voicechat.create_group": "§fСоздать группу",
+    "message.voicechat.optional_password": "§fПароль (необязательно)",
+    "message.voicechat.enter_group_password": "§fВведите пароль группы",
+    "message.voicechat.password": "§fПароль"
+}

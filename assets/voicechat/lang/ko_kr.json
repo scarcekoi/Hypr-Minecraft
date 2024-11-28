@@ -1,0 +1,17 @@
+{
+    "gui.voicechat.voice_chat.title": "§f음성 채팅",
+    "gui.voicechat.voice_chat_settings.title": "§f음성 채팅 설정",
+    "gui.voicechat.adjust_volume.title": "§f플레이어 볼륨 조절",
+    "gui.voicechat.select_microphone.title": "§f마이크 선택",
+    "gui.voicechat.select_speaker.title": "§f스피커 선택",
+    "gui.voicechat.group.title": "§f그룹 채팅",
+    "gui.voicechat.join_create_group.title": "§f그룹 가입/생성",
+    "gui.voicechat.create_group.title": "§f그룹 생성",
+    "gui.voicechat.enter_password.title": "§f그룹 암호 입력",
+    "message.voicechat.join_create_group": "§f그룹 가입/생성",
+    "message.voicechat.group_name": "§f그룹 이름",
+    "message.voicechat.create_group": "§f그룹 생성",
+    "message.voicechat.optional_password": "§f암호 (선택)",
+    "message.voicechat.enter_group_password": "§f그룹 암호 입력",
+    "message.voicechat.password": "§f암호"
+}

@@ -1,0 +1,11 @@
+{
+    "gui.voicechat.voice_chat.title": "§fRöstchatt",
+    "gui.voicechat.voice_chat_settings.title": "§fRöstchattsinställningar",
+    "gui.voicechat.adjust_volume.title": "§fJustera volymer",
+    "gui.voicechat.select_microphone.title": "§fVälj mikrofon",
+    "gui.voicechat.select_speaker.title": "§fVälj högtalare",
+    "gui.voicechat.group.title": "§fGruppchatt",
+    "gui.voicechat.join_create_group.title": "§fGå med i eller skapa grupp",
+    "message.voicechat.join_create_group": "§fGå med i eller skapa grupp",
+    "message.voicechat.group_name": "§fGruppnamn"
+}

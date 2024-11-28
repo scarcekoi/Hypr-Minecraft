@@ -1,0 +1,17 @@
+{
+    "gui.voicechat.voice_chat.title": "§fボイスチャット",
+    "gui.voicechat.voice_chat_settings.title": "§fボイスチャット設定",
+    "gui.voicechat.adjust_volume.title": "§f音量調整",
+    "gui.voicechat.select_microphone.title": "§fマイクの選択",
+    "gui.voicechat.select_speaker.title": "§fスピーカーの選択",
+    "gui.voicechat.group.title": "§fグループチャット",
+    "gui.voicechat.join_create_group.title": "§fグループの作成または参加",
+    "gui.voicechat.create_group.title": "§fグループの作成",
+    "gui.voicechat.enter_password.title": "§fグループのパスワードを入力",
+    "message.voicechat.join_create_group": "§fグループの作成または参加",
+    "message.voicechat.group_name": "§fグループ名",
+    "message.voicechat.create_group": "§fグループの作成",
+    "message.voicechat.optional_password": "§fパスワード(任意)",
+    "message.voicechat.enter_group_password": "§fグループのパスワードを入力",
+    "message.voicechat.password": "§fパスワード"
+}

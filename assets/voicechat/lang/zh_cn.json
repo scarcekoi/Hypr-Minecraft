@@ -1,0 +1,16 @@
+{
+    "gui.voicechat.voice_chat.title": "§f语音通话",
+    "gui.voicechat.voice_chat_settings.title": "§f通话设置",
+    "gui.voicechat.select_microphone.title": "§f选择音频输入设备",
+    "gui.voicechat.select_speaker.title": "§f选择音频输出设备",
+    "gui.voicechat.group.title": "§f群组通话",
+    "gui.voicechat.join_create_group.title": "§f加入或创建群组",
+    "gui.voicechat.create_group.title": "§f创建群组",
+    "gui.voicechat.enter_password.title": "§f输入群组通话密码",
+    "message.voicechat.join_create_group": "§f加入或创建群组",
+    "message.voicechat.group_name": "§f群组名称",
+    "message.voicechat.create_group": "§f创建一个群组",
+    "message.voicechat.optional_password": "§f密码 (可选)",
+    "message.voicechat.enter_group_password": "§f输入群组密码",
+    "message.voicechat.password": "§f密码"
+}
