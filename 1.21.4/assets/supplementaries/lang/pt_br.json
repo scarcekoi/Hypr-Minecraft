@@ -1,0 +1,17 @@
+{
+    "itemGroup.supplementaries": "§fSupplementaries",
+    "itemGroup.jars": "§fJarras",
+    "block.supplementaries.notice_board": "§fQuadro de Notícias",
+    "block.supplementaries.sack": "§fSaco",
+    "block.supplementaries.safe": "§fCofre",
+    "gui.supplementaries.safe.name": "§f%1$s de %2$s",
+    "gui.supplementaries.safe.password": "§f%2$s (Chave: %1$s)",
+    "block.supplementaries.pulley_block": "§fBloco de Polia",
+    "gui.supplementaries.orange_trader.trade": "§fOFERTA DE COMÉRCIO",
+    "gui.supplementaries.orange_trader.get": "",
+    "gui.supplementaries.orange_trader.receive": "",
+    "gui.supplementaries.present": "§fPresente",
+    "gui.supplementaries.present.send": "§fPara: ",
+    "gui.supplementaries.trapped_present": "§fPresente Armadilha",
+    "entity.supplementaries.dispenser_minecart": "§fCarrinho de Mina Ejetor"
+}

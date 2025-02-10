@@ -1,0 +1,12 @@
+{
+    "itemGroup.techreborn.item_group": "§fTech Reborn",
+    "_comment": "",
+    "block.techreborn.pump": "§fPumppu",
+    "block.techreborn.elevator": "§fHissi",
+    "block.techreborn.industrial_sawmill": "§fSaha",
+    "block.techreborn.solid_fuel_generator": "§fGeneraattori",
+    "block.techreborn.grinder": "§fHakkuri",
+    "block.techreborn.compressor": "§fKompressori",
+    "block.techreborn.medium_voltage_su": "§fMFE",
+    "block.techreborn.high_voltage_su": "§fMFSU"
+}

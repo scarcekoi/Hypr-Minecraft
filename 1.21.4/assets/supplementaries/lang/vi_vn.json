@@ -1,0 +1,17 @@
+{
+    "itemGroup.supplementaries": "§fSupplementaries",
+    "itemGroup.jars": "§fLọ",
+    "block.supplementaries.notice_board": "§fBảng thông báo",
+    "block.supplementaries.sack": "§fBao tải",
+    "block.supplementaries.safe": "§fKét sắt",
+    "gui.supplementaries.safe.name": "§f%2$s của %1$s",
+    "gui.supplementaries.safe.password": "§fMã khóa %2$s: %1$s",
+    "block.supplementaries.pulley_block": "§fKhối ròng rọc",
+    "gui.supplementaries.orange_trader.trade": "§fThương vụ",
+    "gui.supplementaries.orange_trader.get": "",
+    "gui.supplementaries.orange_trader.receive": "",
+    "gui.supplementaries.present": "§fHộp quà tặng",
+    "gui.supplementaries.present.send": "§fĐến:",
+    "gui.supplementaries.trapped_present": "§fHộp quà bẫy",
+    "entity.supplementaries.dispenser_minecart": "§fXe mỏ với Máy phân phát"
+}
